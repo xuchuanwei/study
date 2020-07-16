@@ -3,7 +3,7 @@ package prototype;
 /**
  * @Author xuchuanwei
  * @Mail 1141811203@qq.com
- * @Time 2020/7/14 14:54
+ * @Time 2020/7/14 14:55
  * 设计模式-原型模式
  **/
 public class Prototype {
